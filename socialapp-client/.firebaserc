@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "socialapp-a6292",
+    "build": "socialappclient-b828d"
+  }
+}
