@@ -4,7 +4,6 @@ This project is clone copy of twitter such as user able to make post, like, unli
 Node JS, Express JS, REST full API, Firebase Database, React JS, Redux, React Router 4, Material UI.
 
 
-Live Demo Link: https://socialappclient-b828d.firebaseapp.com/
 
-Loknath Chandra Das 
+Loknath Chandra 
 0007loknath@gmail.com
